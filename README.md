@@ -27,8 +27,14 @@ The steps to run this program are as follows:
     3.2 Run camera_calculator.py and the computed footprints are stored in geojson file: footprints.geojson. You can then visualize the footprints in QGIS.
 
 
-readHeight/jpg_images contains the images converted from TIFF format to JPEG format.
+
+
+readHeight/jpg_images contains the images converted from TIFF format to JPEG format. 
+
 readHeight/templates contains templates of number 3, 5, and 8 that are used in template matching.
+
 readHeight/cut_clocks contains the altimeters images cropped from the photos.
-readHeight/img_twoHands contains the cropped altimeter images with lines drawn on it, which represent the two pointers(hands) on the altimeters.
+
+readHeight/img_twoHands contains the cropped altimeter images with lines drawn on it, which represent the two pointers(hands) on the altimeters
+
 The readings will be written in txt file: readings.txt

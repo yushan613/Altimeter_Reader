@@ -3,9 +3,11 @@ This repository contains the Python source code used in additional thesis "Infor
 This altimeter reader can automatically read the altitudes from the altimeters in historical aerial images(photographs). 
 
 
-The steps to run this program are as follows:
+The steps to run the altimeter reader are as follows:
 
 1. Train the altimeter detector
+
+    1.1 Go to folder: altimeter_detector
 
     1.1 Create training and testing dataset with imglab
 
@@ -20,11 +22,16 @@ The steps to run this program are as follows:
         For example, if the TIFF images(photos) from a flightline are in directory "readHeight/tif_images", then execute the program by running: 
         "python readHeight.py .\tif_images" in commond line.
         
+    2.3 The reading results will be stored in readings.txt
+ 
+        
 3. Compute footprints
 
-    3.1 Find the flying direction(in degrees) from file "TMA_pts_attributes.csv"
+    3.1 In QGIS, export the attributes of the needed photocenters as CSV files from the SHP file: TMA_pts_20100927.shp
+    
+    3.2 Find the flying direction(in degrees) from the exported CSV file
 
-    3.2 Run camera_calculator.py and the computed footprints are stored in geojson file: footprints.geojson. You can then visualize the footprints in QGIS.
+    3.3 Run camera_calculator.py and the computed footprints are stored in geojson file: footprints.geojson. You can then visualize the footprints in QGIS
 
 
 

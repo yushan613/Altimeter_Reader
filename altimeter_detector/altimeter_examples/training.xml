@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='CA033733R0071.jpg' width='4080' height='4269'>
+    <box top='2313' left='-21' width='199' height='259'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0072.jpg' width='4080' height='4269'>
+    <box top='2318' left='-23' width='200' height='256'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0073.jpg' width='4080' height='4269'>
+    <box top='2315' left='-27' width='189' height='254'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0074.jpg' width='4080' height='4269'>
+    <box top='2317' left='-22' width='195' height='250'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0075.jpg' width='4080' height='4269'>
+    <box top='2312' left='-30' width='205' height='257'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0100.jpg' width='4080' height='4269'>
+    <box top='2315' left='-80' width='244' height='249'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0101.jpg' width='4080' height='4269'>
+    <box top='2313' left='-20' width='180' height='253'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0102.jpg' width='4080' height='4269'>
+    <box top='2319' left='-47' width='209' height='252'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0103.jpg' width='4080' height='4269'>
+    <box top='2319' left='-59' width='225' height='251'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0104.jpg' width='4080' height='4269'>
+    <box top='2316' left='-39' width='208' height='252'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0105.jpg' width='4080' height='4269'>
+    <box top='2321' left='-53' width='213' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA033733R0106.jpg' width='4080' height='4269'>
+    <box top='2319' left='-24' width='190' height='250'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034731L0241.jpg' width='4080' height='4269'>
+    <box top='2352' left='-30' width='208' height='256'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034731L0280.jpg' width='4080' height='4269'>
+    <box top='2353' left='-6' width='226' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034731L0300.jpg' width='4080' height='4269'>
+    <box top='2354' left='-8' width='245' height='255'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034731L0333.jpg' width='4080' height='4269'>
+    <box top='2362' left='-6' width='229' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0241.jpg' width='4080' height='4309'>
+    <box top='2355' left='58' width='238' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0242.jpg' width='4080' height='4309'>
+    <box top='2349' left='64' width='244' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0243.jpg' width='4080' height='4309'>
+    <box top='2341' left='46' width='235' height='244'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0244.jpg' width='4080' height='4309'>
+    <box top='2346' left='99' width='239' height='244'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0270.jpg' width='4080' height='4309'>
+    <box top='2345' left='70' width='241' height='245'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0271.jpg' width='4080' height='4309'>
+    <box top='2354' left='76' width='243' height='249'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0279.jpg' width='4080' height='4309'>
+    <box top='2348' left='75' width='237' height='245'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0300.jpg' width='4080' height='4309'>
+    <box top='2338' left='63' width='244' height='244'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0001.jpg' width='4080' height='4269'>
+    <box top='2343' left='-19' width='224' height='259'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0002.jpg' width='4080' height='4269'>
+    <box top='2344' left='-31' width='224' height='253'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0003.jpg' width='4080' height='4269'>
+    <box top='2341' left='-20' width='228' height='256'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0004.jpg' width='4080' height='4269'>
+    <box top='2339' left='-5' width='216' height='259'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0005.jpg' width='4080' height='4269'>
+    <box top='2344' left='-9' width='195' height='257'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0006.jpg' width='4080' height='4269'>
+    <box top='2344' left='-20' width='212' height='257'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0007.jpg' width='4080' height='4269'>
+    <box top='2340' left='-26' width='229' height='257'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0008.jpg' width='4080' height='4269'>
+    <box top='2343' left='-23' width='228' height='259'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0009.jpg' width='4080' height='4269'>
+    <box top='2342' left='-14' width='219' height='253'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0023.jpg' width='4080' height='4269'>
+    <box top='2340' left='-25' width='219' height='258'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0037.jpg' width='4080' height='4269'>
+    <box top='2345' left='-31' width='215' height='255'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057831L0066.jpg' width='4080' height='4269'>
+    <box top='2346' left='-36' width='224' height='254'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA057832V0001.jpg' width='4054' height='3949'>
+    <box top='2168' left='-15' width='153' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0003.jpg' width='4054' height='3949'>
+    <box top='2191' left='10' width='246' height='248'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0008.jpg' width='4054' height='3949'>
+    <box top='2192' left='-1' width='244' height='249'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0009.jpg' width='4054' height='3949'>
+    <box top='2195' left='13' width='246' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0010.jpg' width='4054' height='3949'>
+    <box top='2198' left='11' width='244' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0011.jpg' width='4054' height='3949'>
+    <box top='2200' left='-4' width='247' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0031.jpg' width='4054' height='3949'>
+    <box top='2206' left='9' width='247' height='245'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0240.jpg' width='4080' height='4309'>
+    <box top='2343' left='-11' width='216' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0241.jpg' width='4080' height='4309'>
+    <box top='2342' left='-25' width='218' height='244'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0242.jpg' width='4080' height='4309'>
+    <box top='2343' left='-40' width='214' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0243.jpg' width='4080' height='4309'>
+    <box top='2340' left='-35' width='210' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0270.jpg' width='4080' height='4309'>
+    <box top='2340' left='-12' width='216' height='242'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0271.jpg' width='4080' height='4309'>
+    <box top='2341' left='-31' width='188' height='242'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0272.jpg' width='4080' height='4309'>
+    <box top='2341' left='-22' width='197' height='240'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0333.jpg' width='4080' height='4309'>
+    <box top='2347' left='-18' width='179' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0334.jpg' width='4080' height='4309'>
+    <box top='2347' left='-20' width='190' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0335.jpg' width='4080' height='4309'>
+    <box top='2346' left='-50' width='240' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0466.jpg' width='4057' height='3949'>
+    <box top='2225' left='0' width='238' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0467.jpg' width='4057' height='3949'>
+    <box top='2222' left='2' width='246' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0468.jpg' width='4057' height='3949'>
+    <box top='2224' left='1' width='249' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0469.jpg' width='4057' height='3949'>
+    <box top='2223' left='-3' width='249' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0470.jpg' width='4057' height='3949'>
+    <box top='2222' left='-5' width='247' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0471.jpg' width='4057' height='3949'>
+    <box top='2219' left='-12' width='252' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0472.jpg' width='4057' height='3949'>
+    <box top='2215' left='-17' width='261' height='249'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0474.jpg' width='4057' height='3949'>
+    <box top='2213' left='0' width='247' height='243'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0494.jpg' width='4057' height='3949'>
+    <box top='2211' left='-3' width='259' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0496.jpg' width='4057' height='3949'>
+    <box top='2218' left='-7' width='248' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0497.jpg' width='4057' height='3949'>
+    <box top='2221' left='-9' width='247' height='248'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0498.jpg' width='4057' height='3949'>
+    <box top='2223' left='9' width='246' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0499.jpg' width='4057' height='3949'>
+    <box top='2221' left='5' width='247' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0500.jpg' width='4057' height='3949'>
+    <box top='2219' left='6' width='248' height='245'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA100131L0125.jpg' width='4080' height='4269'>
+    <box top='2344' left='-50' width='206' height='254'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA100131L0127.jpg' width='4080' height='4269'>
+    <box top='2338' left='-39' width='203' height='261'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA100131L0128.jpg' width='4080' height='4269'>
+    <box top='2340' left='-33' width='202' height='258'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA145732V0099.jpg' width='4058' height='3949'>
+    <box top='2180' left='-29' width='204' height='248'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA147631L0111.jpg' width='4080' height='4269'>
+    <box top='2362' left='-24' width='185' height='251'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA149231L0064.jpg' width='4080' height='4269'>
+    <box top='2331' left='-22' width='205' height='251'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA149432V0001.jpg' width='4056' height='3949'>
+    <box top='2184' left='-42' width='206' height='246'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA149532V0066.jpg' width='4056' height='3949'>
+    <box top='2171' left='-30' width='212' height='244'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA150031L0001.jpg' width='4080' height='4269'>
+    <box top='2356' left='-27' width='219' height='239'>
+      <label>altimeter</label>
+    </box>
+  </image>
+</images>
+</dataset>

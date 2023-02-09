@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='CA034733R0301.jpg' width='4080' height='4309'>
+    <box top='2343' left='108' width='239' height='247'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA034733R0380.jpg' width='4080' height='4309'>
+    <box top='2341' left='61' width='245' height='249'>
+      <label>altimeter</label>
+    </box>
+  </image>
+   <image file='CA057831L0080.jpg' width='4080' height='4269'>
+    <box top='2337' left='-20' width='182' height='263'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA080032V0024.jpg' width='4054' height='3949'>
+    <box top='2208' left='-5' width='247' height='245'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA091033R0336.jpg' width='4080' height='4309'>
+    <box top='2345' left='-32' width='196' height='241'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  <image file='CA096600V0501.jpg' width='4057' height='3949'>
+    <box top='2215' left='-6' width='250' height='242'>
+      <label>altimeter</label>
+    </box>
+  </image>
+  </images>
+</dataset>

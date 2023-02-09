@@ -10,3 +10,11 @@ readHeight/cut_clocks contains the altimeters images cropped from the photos.
 readHeight/img_twoHands contains the cropped altimeter images with lines drawn on it, which represent the two pointers(hands) on the altimeters
 
 The readings will be written in txt file: readings.txt
+
+
+Required Packages:
+dlib (19.24 or higher version): for dlib to work, you need to have CMake and a working C++ compiler installed.
+opencv-python
+spymicmac: contrast_enhance function is used for image enhancement
+matplotlib: for some visualization
+Pillow: for some visualization

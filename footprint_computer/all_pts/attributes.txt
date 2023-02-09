@@ -1,0 +1,34 @@
+TMA_num		- flight number
+photo_ID	- unique photo id of one flight number
+QuadName	- text description of the location (optional)
+Location	- text description of the location (optional)
+Entitiy_ID	- unique identifier for a camerashot
+Point_X		- X coordinate of location (for EPSG 3031)
+Point_Y		- Y coordinate of location (for EPSG 3031)
+PreviewUrl	- URL for a preview for the vertical image
+ImageUrl	- URL for the vertical image
+PrevUrl_L	- URL for a preview of the left image
+ImageUrl_L	- URL for the left image
+PrevUrl_R	- URL for a preview of the right image
+ImageUrl_R	- URL for the right image
+ThumbUrl	- URL for the thumbnail for the vertial image
+ThumbUrl_L	- URL for the thumbnail for the left image
+ThumbUrl_R	- URL for the thumbnail for the right image
+VIEWS		- availabilty of left, vertical & right view
+v_cam		- unique number describing which camera is used
+Direction	- text description of direction in which the airplane flew
+Altitude	- height of the camera (in meters)
+Length		- length of the flight
+photo_int	- intervall between each picture (in ?)
+V_S		- something related to flight
+V_E		- something related to flight
+V_T		- something related to flight
+Date		- exact date the picture was taken
+Country		- country that took the picture
+Maps		- another text description of the location
+Year		- year the picture was taken
+Azimuth_dd	- azimuth of the camera (how is the camera rotated to the north)
+Length_s	- ?
+HiResUrl	- URL for the vertical image in high resolution
+HiResUrl_L	- URL for the left image in high resolution
+HiResUrl_R	- URL for the right image in high resolution
